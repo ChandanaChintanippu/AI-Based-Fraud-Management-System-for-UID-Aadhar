@@ -5,7 +5,7 @@ to detect and prevent fraudulent activities involving Aadhaar documents. The sys
 the verification process by matching extracted data from uploaded Aadhaar cards with official
 records, ensuring enhanced security and accuracy.
 
-**Key Features**
+**KEY FEATURES**
 
 **Real-time Document Verification:** Detects and verifies Aadhaar card authenticity by analyzing images and matching extracted data.
 
