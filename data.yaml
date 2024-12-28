@@ -1,0 +1,10 @@
+path: C:/Infosys/multi_class_dataset
+train: train
+val: test  # Using 'test' as validation dataset
+test: test
+
+names:
+  0: blurred_aadhar
+  1: clear_aadhar
+  2: gov_docs
+  3: others
